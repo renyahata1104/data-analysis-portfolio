@@ -1,0 +1,15 @@
+# Customer Analytics (RFM Analysis)
+
+RFM分析を用いた顧客セグメント分析。
+
+## 分析内容
+
+Recency  
+Frequency  
+Monetary  
+
+## 使用技術
+
+Python  
+Pandas  
+Matplotlib
